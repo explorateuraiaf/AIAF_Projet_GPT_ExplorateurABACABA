@@ -1,0 +1,1 @@
+# aiaf_architecture_internal.md

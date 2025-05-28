@@ -1,0 +1,4 @@
+Instructions pour la phase N2 :
+- Développer nip_engine.py
+- Ajouter des tests
+- Assurer l'intégration avec les autres modules

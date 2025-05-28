@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ms-python.vscode-pylance",
+    "esbenp.prettier-vscode",
+    "ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "ms-vscode.makefile-tools",
+    "formulahendry.auto-close-tag",
+    "editorconfig.editorconfig",
+    "ms-vscode.live-server",
+    "mhutchie.git-graph",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "bierner.markdown-preview-github-styles"
+  ]
+}

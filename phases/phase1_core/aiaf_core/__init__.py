@@ -1,0 +1,1 @@
+# Initialisation du module aiaf_core
